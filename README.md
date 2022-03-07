@@ -1,8 +1,8 @@
 # Duurzaam Huis Periode 1.3
 
- Dion Ahiayibor - Tijd & datum, zon opgang & ondergang, weerbericht API
- Amir Crljenkovic - logo, buitentemperatuur, 
- Judensio stern - naam, binnentemperatuur, lichtsterkte
- Faret Erdoğan - 
+ #### Dion Ahiayibor - tijd en datum, grafisch water, thermostaat
+ #### Amir Crljenkovic - logo, grafisch buitentemperatuur, beweging sensor
+ #### Judensio stern -  zon opkomst & ondergang, grafish gas, lichtintensiteit
+ #### Faret Erdoğan - 
 
 
