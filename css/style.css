@@ -20,7 +20,7 @@
 header {
     height    : 3.75rem;
     width     : 100%;
-    background: #327bb3;
+    background: #222831;
 }
 
 nav {
@@ -60,7 +60,7 @@ nav>ul>li>a:link {
 }
 
 nav>ul>.active {
-    background: limegreen;
+    background: red;
 }
 
 .graphbox {
