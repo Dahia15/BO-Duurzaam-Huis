@@ -1,0 +1,53 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>BO-Dashboard</title>
+    <link rel="stylesheet" href="css/style.css" />
+</head>
+
+<header id="top">
+    <nav>
+        <ul>
+            <li><img id="logo" src="/img/" alt="logo" height="200px"/></li>
+            <li class="active"><a href="index.html">Eco Home</a></li>
+            <li id="datum"><a href="index.html">Datum</a></li>
+            <li><a href="index.html">Temperatuur</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <div class="graphbox">
+        <div class="box">
+            <h3>Water Verbruik</h3>
+            <canvas id="Dion_Chart" width="100" height="50"></canvas>
+        </div>
+
+        <div class="box chart1">
+            <canvas id="Amir_Chart"></canvas>
+        </div>
+
+        <div class="box">
+            <h3>Gas Verbruik</h3>
+            <canvas id="Judensio_Chart"></canvas>
+        </div>
+    </div>
+</main>
+
+<footer>
+    <p>Gemaakt door Dion, Judensio en Amir</p>
+</footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.7.1/chart.min.js"></script>
+<script src="js/main.js"></script>
+
+
+</body>
+
+</html>
+
